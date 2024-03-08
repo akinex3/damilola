@@ -3,32 +3,32 @@
     {
       "id": 1,
       "title": "Macbook Pro", 
-      "body": "Apple in october 2021 overhauler",
-      "coo": "America",
+      "body": "Apple in October 2021 overhauler",
+      "coo": "America"
     },
     {
-      "id": 1,
-      "title": "Macbook Pro",
-      "body": "Apple in october 2021 overhauler",
-      "coo": "America",
+      "id": 2,
+      "title": "iPhone 13",
+      "body": "Apple's latest smartphone",
+      "coo": "America"
     },
     {
-      "id": 1,
-      "title": "Macbook Pro", 
-      "body": "Apple in october 2021 overhauler",
-      "coo": "America",
+      "id": 3,
+      "title": "Samsung Galaxy S21", 
+      "body": "Samsung's flagship phone",
+      "coo": "South Korea"
     },
     {
-      "id": 1,
-      "title": "Macbook Pro", 
-      "body": "Apple in october 2021 overhauler",
-      "coo": "America",
+      "id": 4,
+      "title": "Dell XPS 13", 
+      "body": "Powerful laptop for professionals",
+      "coo": "United States"
     },
     {
-      "id": 1,
-      "title": "Macbook Pro", 
-      "body": "Apple in october 2021 overhauler",
-      "coo": "America",
+      "id": 5,
+      "title": "Sony A7 III", 
+      "body": "Mirrorless camera with great features",
+      "coo": "Japan"
     }
   ]
 }
